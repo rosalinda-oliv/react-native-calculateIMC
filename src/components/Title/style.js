@@ -1,5 +1,3 @@
-
-import React from 'react';
 import { StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
@@ -9,7 +7,7 @@ const styles = StyleSheet.create({
       padding:10,
   },
   textTitle: {
-      color:"#FF0043",
+      color:"#B56576",
       fontSize:24,
       fontWeight:"bold",
   }

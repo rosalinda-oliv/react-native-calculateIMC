@@ -1,13 +1,13 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import Title from "./src/components/Title/index.js";
-import Main from "./src/components/Main/index.js";
+import Form from "./src/components/Form/index.js"
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Title/>
-      <Main/>
+   <Form/> 
     </View>
   );
 }
@@ -15,7 +15,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#e0e5e5',
+    backgroundColor: '#E6E7EA',
     paddingTop: 80,
   },
 });
