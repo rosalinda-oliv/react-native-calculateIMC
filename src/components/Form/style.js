@@ -9,12 +9,12 @@ const styles = StyleSheet.create({
         alignItems:"center",
         borderTopLeftRadius:30,
         borderTopRightRadius:30,
-        marginTop:30,
+        marginTop:10,
     },
     form: {
         width:"100%",
         height:"auto",
-        marginTop:30,
+        marginTop:10,
         padding:10,
     },
     formLabel: {
@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
         paddingTop:14,
         paddingBottom:14,
         marginLeft:12,
-        marginTop:30,
+        marginTop:10,
     },
     textButtonCalculator: {
         fontSize:20,

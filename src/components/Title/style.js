@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
       color:"#B56576",
       fontSize:24,
       fontWeight:"bold",
+      marginTop:-10
   }
 });
 
