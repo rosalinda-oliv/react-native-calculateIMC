@@ -48,6 +48,10 @@ const styles = StyleSheet.create({
         paddingLeft:20,
         marginTop:-10
     },
+    exhibitionResultImc: {
+        width: "100%",
+        height:"50%",
+    }
 });
 
 export default styles;
